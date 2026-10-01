@@ -1,0 +1,23 @@
+Komal Pramod Ramugade
+Email: komal@example.com
+Phone: +91 9876543210
+Location: Maharashtra, India
+
+SUMMARY
+AI and Data Science engineering student interested in machine learning, NLP, and data analytics.
+
+SKILLS
+Python, Pandas, NumPy, Scikit-learn, SQL, Machine Learning, NLP, Git, GitHub, Power BI
+
+EDUCATION
+Bachelor of Engineering in Artificial Intelligence and Data Science
+
+EXPERIENCE
+Machine Learning Intern
+Built classification and regression projects using Python and Scikit-learn.
+Developed data preprocessing and visualization workflows.
+
+PROJECTS
+Sentiment Analysis
+Customer Churn Prediction
+Movie Recommendation System
